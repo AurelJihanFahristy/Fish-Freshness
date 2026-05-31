@@ -31,18 +31,18 @@
       scroll-behavior: smooth
     }
 
-    body {
-      font-family: 'Poppins', sans-serif;
-      color: #1a2d4e;
-      overflow-x: hidden;
-      width: 100%;
-      background-image: linear-gradient(180deg, rgba(238, 246, 255, 0.506) 0%, rgba(238, 246, 255, 0.95) 100%),
-        url('./assest/img/laut.png');
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
+   body {
+    font-family: 'Poppins', sans-serif;
+    color: #1a2d4e;
+    overflow-x: hidden;
+    width: 100%;
+    background-image: linear-gradient(180deg, rgba(238, 246, 255, 0.323) 0%, rgba(238, 246, 255, 0.95) 100%),
+        url('/assest/img/laut.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
     /* ============ NAVBAR ============ */
     /* ── NAVBAR ── */
